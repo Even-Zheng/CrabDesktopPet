@@ -5,12 +5,11 @@
 
 A desktop pet crab that lives on your taskbar with idle animations, walking, running, and interactive responses.
 
-## 运行方式
+## 下载运行
 
-1. 进入 `dist` 文件夹
-2. 双击 `CrabPet_v1.0.exe`
-3. 确保 `assets` 文件夹与 `CrabPet_v1.0.exe` 在同一目录下
-
+1. 去 [Releases 页面](../../releases) 下载 `CrabPet_v1.0.exe`
+2. 下载 `assets.zip` 并解压到 EXE 同级目录
+3. 双击 `CrabPet_v1.0.exe` 运行
 ## 功能说明
 
 ### 常态行为
